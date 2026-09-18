@@ -1,0 +1,5 @@
+pa=input("pick a physical attribute ")
+wt=input("pick a weird texture  ")
+sn=input("pick a strange noise  ")
+mucn=input("pick a made-up creature name ")
+print (f"Behold! The {wt}-{pa} ed {mucn} makes a terrifying {sn} as it shuffles closer!​" )

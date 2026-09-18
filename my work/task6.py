@@ -1,0 +1,8 @@
+pig1=("insert a name")
+pig2=("insert a name")
+pig3=("insert a name")
+wolf=("insert a name")
+mat1=("insert a material")
+mat2=("insert a material")
+mat3=("insert a material")
+print("There once were three little pigs. The first pig was called {pig1}, the second was called {pig2} and the third was called {pig3}. The first house was made from {mat1}. The second house was made from {mat2}. The third house was made from {mat3}}. The big bad wolf was called {wolf}. The big bad wolf blew down the first two houses. He could not destroy the third house made from {mat3}.The pigs lived happily ever after. ​")
