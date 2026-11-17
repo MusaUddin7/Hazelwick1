@@ -13,4 +13,4 @@ while guess != number and count < 10:
         print("Too high!")
     guess=int(input("Guess again: "))
 count += 1
-print(" You didnt guess the number! It was", number)
+print(" You didn't guess the number! It was", number)
